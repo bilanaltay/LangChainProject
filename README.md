@@ -14,7 +14,7 @@ Bu proje, Python ve Langchain kullanarak OpenAI API'si üzerinden basit bir chat
 ```bash
 git clone https://github.com/kendi-reponuz/langchain-openai-demo.git
 cd langchain-openai-demo
-
+```
 
 2️⃣ Sanal ortam oluşturun ve aktive edin:
 ```bash
